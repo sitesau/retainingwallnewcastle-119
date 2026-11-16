@@ -1,0 +1,22 @@
+{
+  "wheel_id": 909,
+  "structure": "umbrella",
+  "slug": "retainingwallnewcastle-119",
+  "project": "retaining-walls-newcastle-suburb-guide-8c9a324ee140db6eb70d6c1b",
+  "parent_t1_ref": "retainingwallnewcastle-159",
+  "node_role": "feeder",
+  "money_target": "retainingwallnewcastle.com.au",
+  "primary_kw": "retaining walls newcastle suburb guide",
+  "intended_url": "https://sitesau.github.io/retainingwallnewcastle-119/",
+  "tier": "T2",
+  "writeback_nonce": "221b730b884788a0",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-newcastle-timeline-de037326d6c610c60ce374e43d9f/",
+      "anchor": "the retaining walls newcastle timeline overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
